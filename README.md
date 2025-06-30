@@ -5,14 +5,17 @@ This repository contains code used to assess the feasibility of predicting missi
 --------------
 **The following files are included:**
 
-- *INLA_Spatial_Smooth_Example.R* contains code to replicate the spatial smoothing analysis estimating county-level firearm suicide mortality rates. 
-
+- *01_NVDRS_State_Investiagate.R* - Investigates the proportion of handgun to long gun suicide deaths in each NVDRS reporting state over time (creates Figure 2). 
+- *02_NVDRS_Creation_of_Test_and_Validation_Sets.R* - Prepares NVDRS data for analysis and splits into 80% training and 20% test sets. 
+- *03_Table1.R* - Creates Table 1. 
+- *04_NVDRS_Logistic_Regression.R* - Fits the initial empty model, as well as the logistic regression prediction model. 
+- *05_NVDRS_Random_Forest.R* - Fits the random forest prediction model. 
+- *06_NVDRS_C5.R* - Fits the C5 prediction model and calculates accuracy statistics on the test data. 
 
 --------------
 **Data Availability:**
 
 Restricted use data were requested from the [National Violent Death Reporting System](https://www.cdc.gov/nvdrs/about/nvdrs-data-access.html), and the [National Vital Statistics System](https://www.cdc.gov/nchs/nvss/nvss-restricted-data.htm) and cannot be shared. Those interested in using these data should follow similar data request processes.
-
 
 ___
 
