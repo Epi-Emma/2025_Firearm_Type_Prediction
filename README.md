@@ -19,6 +19,6 @@ Restricted use data were requested from the [National Violent Death Reporting Sy
 
 ___
 
-If you use this R code, please cite the following publication:
+**If you use this R code, please cite the following publication:**
 
 [ADD CITATION AND LINK WHEN AVAILABLE]
