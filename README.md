@@ -11,6 +11,7 @@ This repository contains code used to assess the feasibility of predicting missi
 --------------
 **Data Availability:**
 
+Restricted use data were requested from the [National Violent Death Reporting System](https://www.cdc.gov/nvdrs/about/nvdrs-data-access.html), and the [National Vital Statistics System](https://www.cdc.gov/nchs/nvss/nvss-restricted-data.htm) and cannot be shared. Those interested in using these data should follow similar data request processes.
 
 
 ___
