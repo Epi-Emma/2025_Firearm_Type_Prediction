@@ -21,4 +21,5 @@ ___
 
 **If you use this R code, please cite the following publication:**
 
-[ADD CITATION AND LINK WHEN AVAILABLE]
+Gause EL, Ellyson AM, Rowhani-Rahbar A. Feasibility of predicting firearm type in firearm suicide deaths for better policy evaluation. *Discov Public Health.* 2025;22(1). doi:10.1186/s12982-025-00781-6
+
